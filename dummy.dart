@@ -3,18 +3,18 @@
   "data": [
     {
       "username": "justin",
-      "email": "ridwanhanif@gmail.com",
-      "password": "crb123",
+      "email": "user1@gmail.com",
+      "password": "test1",
     },
     {
       "username": "michelle",
-      "email": "ridwan@gmail.com",
-      "password": "crb321",
+      "email": "user2@gmail.com",
+      "password": "test2",
     },
     {
       "username": "jordan",
-      "email": "hanif@gmail.com",
-      "password": "crb312",
+      "email": "user3@gmail.com",
+      "password": "test3",
     }
   ],
 };
